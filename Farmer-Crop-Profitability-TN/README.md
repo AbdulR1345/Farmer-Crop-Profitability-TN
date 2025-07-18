@@ -20,8 +20,8 @@ Identify the most profitable crops across Tamil Nadu districts using input cost,
 - Final project report
 
 ## 📸 Screenshots
-![Excel Charts](visuals/charts.png)
-![Dashboard](visuals/dashboard_screenshot.png)
+![Excel Charts](https://github.com/AbdulR1345/Farmer-Crop-Profitability-TN/blob/main/Farmer-Crop-Profitability-TN/visuals/excel%20charts.png?raw=true)
+![Dashboard](https://github.com/AbdulR1345/Farmer-Crop-Profitability-TN/blob/main/Farmer-Crop-Profitability-TN/visuals/power%20BI%20dashboard.png?raw=true)
 
 ## 📌 Author
 Abdul Rahaman (Data Analyst Aspirant)
